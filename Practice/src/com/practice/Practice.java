@@ -1,8 +1,8 @@
 package com.practice;
 
-public class PracticeClass {
+public class Practice {
 
 	public static void main(String[] args) {
-		System.out.println("Test class");
+		System.out.println("Test class Demo");
 	}
 }
